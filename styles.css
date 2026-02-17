@@ -78,7 +78,7 @@ section {
 
 /* Story Section Styles */
 .story {
-  background-color: #8BD1CB; /* Secondary Light Blue */
+  background-color: #FFC907; /* Secondary Light Blue */
   color: #222;
   text-align: center;
   padding: 30px 20px;
@@ -111,7 +111,7 @@ h2 {
 /* Donate Button Styles */
 .donate-button {
   display: inline-block;
-  background-color: #4FCB53; /* Green */
+  background-color: #2E9DF7; /* Green */
   color: #fff;
   padding: 14px 32px;
   text-decoration: none;
